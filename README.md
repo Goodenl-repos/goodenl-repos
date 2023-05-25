@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Goodenl-repos/goodenl-repos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://www.linkedin.com/in/danylo-matiash-b9441a277/
+
+## Front-end Developer | Software Engineer (remote)
+* Goal oriented, met and still trying to exceed all performance metrics.
+* Demonstrated experience developing consumer-focused software.
+* Strong focus on improving productivity, cleanliness, and reliability of a code.
+* 4 years in the industry.
+
+### Technical Skills
+Main stack: Vue + TS + Pinia<br />
+All things such as css-preprocessors ( Sass, Less, PostCSS ), linters ( ESLint + Prettier ), state managers ( Vuex, Pinia ), distinct UI kits ( Bootstrap, Tailwind, Vuetify ), animations ( GSAP, Canvas ) and all kinds of bells and whistles are included =)
+
+Additional technologies: Nuxt.js, React.js, Next.js, Node.js ( Express.js, Nest.js ), SQL, TDD, git, docker, Linux, Storybook
+
+### Work Experience
+B2B contract with Cobra GmbH, remote <br />
+Front-end Developer, (2022 - 2023).
+* Creating and integrating modern product solutions
+* Building, improving and implementing a lightweight UI-kit
+* Covering the codebase with tests and robust documentation
+* Mentoring a junior
+
+Freelancehunt, remote.
+Full Stack Engineer, (2019 - 2022).
+* Managed, planned, developed and maintained every distinct project by myself
+* Implemented and integrated modern solutions into existing projects
+* Consulted businesses regarding the development of their software ( websites, mobile applications, bots, etc. )
+* Involved in developing projects from scratch and maintaining them
