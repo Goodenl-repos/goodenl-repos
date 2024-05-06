@@ -23,11 +23,18 @@ https://www.linkedin.com/in/danylo-matiash-b9441a277/
 
 ### Technical Skills
 Main stack: Vue + TS + Pinia<br />
-All things such as css-preprocessors ( Sass, Less, PostCSS ), linters ( ESLint + Prettier ), state managers ( Vuex, Pinia ), distinct UI kits ( Bootstrap, Tailwind, Vuetify ), animations ( GSAP, Canvas ) and all kinds of bells and whistles are included =)
+All things such as meta frameworks ( Nuxt ), css-preprocessors ( Sass, Less, Stylus, PostCSS ), linters ( ESLint + Prettier ), state managers ( Vuex, Pinia ), distinct UI kits ( Bootstrap, Tailwind, Vuetify ), animations ( GSAP, Canvas ) and all kinds of bells and whistles are included =)
 
-Additional technologies: Nuxt.js, React.js, Next.js, Node.js ( Express.js, Nest.js ), SQL, TDD, git, docker, Linux, Storybook
+Additional technologies: React.js, Next.js, Node.js ( Express.js, Nest.js ), SQL, TDD, git, docker, Linux, Storybook
 
 ### Work Experience
+Full-time with Devurai, remote <br />
+Front-end Developer, (2023 - 2024).
+* Creating and integrating modern product solutions
+* Collaborate with the design team to evaluate project requirements and propose design changes to enhance user experience
+* Refactor and optimize existing front-end codebase to improve maintainability, performance, and scalability
+* In-depth experience with backend technologies
+
 B2B contract with Cobra GmbH, remote <br />
 Front-end Developer, (2022 - 2023).
 * Creating and integrating modern product solutions
