@@ -30,10 +30,10 @@ Additional technologies: React.js, Next.js, Node.js ( Express.js, Nest.js ), SQL
 ### Work Experience
 Full-time with Devurai, remote <br />
 Front-end Developer, (2023 - 2024).
-* Implement front-end development tasks using modern technologies to improve user experience and adhere to best practices
-* Collaborate with the design team to evaluate project requirements and propose design changes to enhance user experience
+* Enhance user experience with modern front-end development
+* Collaborate with designers to improve project design for better UX
 * Refactor and optimize existing front-end codebase to improve maintainability, performance, and scalability
-* In-depth experience with backend technologies
+* Creating a simple backend system and improving the existing backend
 
 B2B contract with Cobra GmbH, remote <br />
 Front-end Developer, (2022 - 2023).
