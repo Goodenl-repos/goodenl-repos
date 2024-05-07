@@ -28,7 +28,7 @@ All things such as meta frameworks ( Nuxt ), css-preprocessors ( Sass, Less, Sty
 Additional technologies: React.js, Next.js, Node.js ( Express.js, Nest.js ), SQL, TDD, git, docker, Linux, Storybook
 
 ### Work Experience
-Full-time with Devurai, remote <br />
+B2B contract with Devurai, remote <br />
 Front-end Developer, (2023 - 2024).
 * Enhance user experience with modern front-end development
 * Collaborate with designers to improve project design for better UX
