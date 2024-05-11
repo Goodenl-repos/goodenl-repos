@@ -28,14 +28,15 @@ All things such as meta frameworks ( Nuxt ), css-preprocessors ( Sass, Less, Sty
 Additional technologies: React.js, Next.js, Node.js ( Express.js, Nest.js ), SQL, TDD, git, docker, Linux, Storybook
 
 ### Work Experience
-B2B contract with Devurai, remote <br />
+Devurai, remote <br />
 Front-end Developer, (2023 - 2024).
 * Enhance user experience with modern front-end development
-* Collaborate with designers to improve project design for better UX
-* Refactor and optimize existing front-end codebase to improve maintainability, performance, and scalability
+* Providing new functionality and increasing website conversion
+* Collaborate with designers to improve project UX; as a result in a 10% reduction in development time
+* Refactor and optimize existing code to improve maintainability, performance, and scalability; achieved an increase in score from 38 to 100
 * Creating a simple backend system and improving the existing backend
 
-B2B contract with Cobra GmbH, remote <br />
+Cobra GmbH, remote <br />
 Front-end Developer, (2022 - 2023).
 * Creating and integrating modern product solutions
 * Building, improving and implementing a lightweight UI-kit
