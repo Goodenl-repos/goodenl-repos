@@ -19,7 +19,7 @@ https://www.linkedin.com/in/danylo-matiash-b9441a277/
 * Goal oriented, met and still trying to exceed all performance metrics.
 * Demonstrated experience developing consumer-focused software.
 * Strong focus on improving productivity, cleanliness, and reliability of a code.
-* 4 years in the industry.
+* 5 years in the industry.
 
 ### Technical Skills
 Main stack: Vue + TS + Pinia<br />
