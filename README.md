@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://www.linkedin.com/in/danylo-matiash-b9441a277/
+https://www.linkedin.com/in/danylo-matiash/
 
 ## Front-end Developer | Software Engineer (remote)
 * Goal oriented, met and still trying to exceed all performance metrics.
